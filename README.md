@@ -9,7 +9,7 @@ LICENZA: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 
 FORMATO: .csv
 
-DESCRIZIONE: I dati sono stati raccolti nell'ambito del progetto Mobility Management Post Covid promosso da PUSH insieme a un gruppo di ricercatori, imprenditori, esperti di comunicazione e mobilità (tra gli altri MUV B Corp, Matteo D'Aloja, GreenShare, OpenGroup) allo scopo di prevedere la domanda di mobilità post Covid nelle città italiane. 
+DESCRIZIONE: I dati sono stati raccolti nell'ambito del progetto Mobility Management Post Covid promosso da PUSH insieme a un gruppo di ricercatori, imprenditori, esperti di comunicazione e mobilità allo scopo di prevedere la domanda di mobilità post Covid nelle città italiane. 
 Le domande riguardano le abitudini precedenti al Covid, le intenzioni sulla scelta del mezzo di trasporto, la propensione allo smart working e la propensione al cambiamento. 
 
 PERIODO DI RIFERIMENTO DELL'INDAGINE: 21/04/2020 - 12/06/2020
