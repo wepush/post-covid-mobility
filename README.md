@@ -1,12 +1,19 @@
 ### TITOLO: Mobilità post Covid
 VERSIONE: 1.0
+
 AUTORE: Push (https://www.wepush.org/)
+
 CONTATTI: info@wepush.org 
+
 LICENZA: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
 FORMATO: .csv
+
 DESCRIZIONE: I dati sono stati raccolti nell'ambito del progetto Mobility Management Post Covid promosso da PUSH insieme a un gruppo di ricercatori, imprenditori, esperti di comunicazione e mobilità (tra gli altri MUV B Corp, Matteo D'Aloja, GreenShare, OpenGroup) allo scopo di prevedere la domanda di mobilità post Covid nelle città italiane. 
 Le domande riguardano le abitudini precedenti al Covid, le intenzioni sulla scelta del mezzo di trasporto, la propensione allo smart working e la propensione al cambiamento. 
+
 PERIODO DI RIFERIMENTO DELL'INDAGINE: 21/04/2020 - 12/06/2020
+
 DATA DI RILASCIO: 31/07/2020
 
 *NOTA: Una nuova indagine sarà condotta nei mesi di Agosto e Settembre 2020 per comparare le intenzioni manifestate durante il periodo del lockdown con le esigenze e le percezioni reali relative alla ripresa delle attività quotidiane.   
