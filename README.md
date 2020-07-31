@@ -1,4 +1,4 @@
-###TITOLO: Mobilità post Covid
+### TITOLO: Mobilità post Covid
 VERSIONE: 1.0
 AUTORE: Push (https://www.wepush.org/)
 CONTATTI: info@wepush.org 
@@ -11,7 +11,7 @@ DATA DI RILASCIO: 31/07/2020
 
 *NOTA: Una nuova indagine sarà condotta nei mesi di Agosto e Settembre 2020 per comparare le intenzioni manifestate durante il periodo del lockdown con le esigenze e le percezioni reali relative alla ripresa delle attività quotidiane.   
 
-###DESCRIZIONE CAMPI
+### DESCRIZIONE CAMPI
 
 - CITTA'| Città di residenza	
 - CAP RESIDENZA 
